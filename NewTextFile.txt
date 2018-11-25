@@ -1,1 +1,3 @@
-This is a new text file
+Working with Github for no messing it up is pretty simple. 
+Just create a branch.
+Working. Then make a pull request to merge it to the master.
